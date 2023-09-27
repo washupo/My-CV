@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8">
+  <title>CV Pauline Washukenyi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Pauline Wahukenyi</h1>
+    <h2>Junior web developer</h2>
+</header>
+
+<aside>
+    <section>
+        <h3>About</h3>    
+        <p>I am a communication officer always eager to learn and who loves to solve
+            problems in a creative way. Today, I would like to develop more technical and
+            soft skills to make a career switch into software development. As someone
+            interested in everything related to visual communication, like UX/UI design,
+            I've already learned some notions in front-end developement through online
+            courses and hobby projects mainly in HTML, CSS and Javascript. I would like
+            to go further by also learning backend developement to manage projects from
+            A to Z.</p>
+    </section>
+
+    <section>
+        <h3>Contact</h3>
+        <ul>
+            <li>paulinewashukenyi@gmail.com</li>
+            <li>(+32)487/53.82.87 </li>
+            <li>Brussels</li>
+            <li>Linkedin</li>
+            <li>Codepen</li>
+        </ul>
+    </section>
+</aside>
+
+<main>
+    <section>
+        <h3>Experience</h3>
+
+        <article>
+            <p class="subtitle">Junior developer</p>
+            <p class ="place">Becode</p>
+            <p class ="date">September 2023 - Avril 2024</p>
+            <p class="summary">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </article>
+
+        <article>
+            <p class="subtitle">Communication officer</p>
+            <p class ="place">BePax asbl</p>
+            <p class ="date">October 2020 - April 2023</p>
+            <p class="summary">Management of the communication strategy through various publications and/or events</p>
+            <ul>
+                <li>Creation and editing of various content (newsletter, social networks, etc.)</li>
+                <li>Organization and implementation of online and live events</li>
+                <li>Contribution to the planning and the development of educational projects.</li> 
+            </ul>
+        </article>
+
+        <article>
+            <p class="subtitle">Social media executive</p>
+            <p class ="place">Festival Congolisation</p>
+            <p class ="date">October 2019 - January 2020</p>
+            <p class="summary">Development and implementation of the digital communication strategy for the 2020 Congolisation festival</p>
+            <ul>
+                <li>Social media accounts & ads campaign management (Facebook & Instagram)</li>
+                <li>Content creation (Videos, social posts, flyers and more)</li> 
+            </ul>
+        </article>
+
+        <article>
+            <p class="subtitle">Event coordinator</p>
+            <p class ="place">Festival Congolisation</p>
+            <p class ="date">October 2018 - February 2019</p>
+            <p class="summary">Management of the communication strategy through various publications and/or events</p>
+            <ul>
+                <li>Event planification and implementation of the development strategy</li>
+                <li>Development of a communication plan</li>
+                <li>Coordination of the team, the stakeholder's actions and the partnerships</li> 
+            </ul>
+        </article>
+
+        <article>
+            <p class="subtitle">Administrative assistant</p>
+            <p class ="place">Bureau d'expertise immobilière J.-L. Hannesse</p>
+            <p class ="date">January 2018 - July 2018</p>
+            <p class="summary">Administrative support to an independent surveyor to ensure efficient operation.</p>
+            <article class="2columns">
+                <ul>
+                    <li>Reports transcription and notes taking</li>
+                    <li>Appointments coordination</li>
+                    <li>Database management</li>
+                    <li>Office supply management</li>
+                </ul>
+            </article>
+            
+        </article>
+                
+    </section>
+
+    <section>
+        <h3>Education</h3>    
+        <article>
+            <p class="subtitle">Data-driven marketing & innovation</p>
+            <p class="level">Traineeship</p>
+            <p class ="place">Becode</p>
+            <p class ="date">2019</p>
+        </article>
+
+        <article>
+            <p class="subtitle">Cultural management</p>
+            <p class="level">Further formation (Master level)</p>
+            <p class ="place"> Université Libre de Bruxelles</p>
+            <p class ="date">2014 - 2016</p>
+        </article>
+
+        <article>
+            <p class="subtitle">Information and communication</p>
+            <p class="level">Bachelor of arts</p>
+            <p class ="place"> UCLouvain</p>
+            <p class ="date">2010 - 2014</p>
+        </article>
+    </section>
+
+    <section>
+        <h3>Skills</h3>
+
+        <article>
+            <p class="subtitle">Languages</p>
+            <ul>
+                <li><em>English</em> -  Advanced level</li>
+                <li><em>French</em> -  First language</li>
+                <li><em>Dutch</em> -  Intermediate level</li>
+            </ul>
+        </article>
+
+        <article>
+            <p class="subtitle">Programming</p>
+            <ul>
+                <li><em>HTML</em> -  Advanced level</li>
+                <li><em>CSS</em> -  Advanced language</li>
+                <li><em>Javascript</em> -  Beginner level</li>
+            </ul>
+        </article>
+
+        <article>
+            <p class="subtitle">Softwares</p>
+            <ul>
+                <li><em>MS Office</em> -  Advanced level</li>
+                <li><em>GIMP</em> -  Intermediate language</li>
+                <li><em>DaVinci Resolve</em> -  Intermediate level</li>
+                <li><em>Scribus</em> -  Intermediate level</li>
+            </ul>
+        </article>
+
+        <article>
+            <p class="subtitle">Certifications</p>
+            <ul>
+                <li><em>FreeCodeCamp</em> Responsive Web Design</li>
+                <li>
+                    <em>CXL</em> 
+                    <ul>
+                        <li>Building data-driven personas</li>
+                        <li>Content strategy and SEO for lead generation</li>
+                        <li>UX for marketers</li>
+                    </ul>
+                    </li>
+            </ul>
+        </article>
+        
+    </section>
+
+    <aside>
+        <section>
+            <h3>Extra curricular activities</h3>
+
+            <article>
+                <p class="subtitle">Event production assistant</p>
+                <p class ="place">Skinfama asbl</p>
+                <p class ="date">September 2014 - February 2018</p>
+                <p class="summary">Organization of different cultural events for the Congolisation festival. </p>
+            </article>
+
+            <article>
+                <p class="subtitle">Youth worker</p>
+                <p class ="place">Les Guides</p>
+                <p class ="date">September 2008 - July 2014</p>
+                <p class="summary">Development and animation of educational activities and organisation of summer camp.</p>
+            </article>
+
+            </section>
+    </aside>
+    
+</main>
+
+
+
+</body>
+
+</html>
